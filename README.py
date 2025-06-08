@@ -30,7 +30,7 @@ Button(window,text="#",fg="black",bg="white",font=("",30),command=button).place(
 Button(window,text="x",fg="black",bg="gray",font=("",30),command=button).place(x=435,y=530)
 Button(window,text= ' 📞  ',fg="white",bg="green",font=("",30),command=button).place(x=325,y=530)
 
-
+ 
     
 
 window.mainloop()
